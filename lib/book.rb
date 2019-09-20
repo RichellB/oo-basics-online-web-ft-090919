@@ -10,12 +10,12 @@ class Book
     @title
   end 
   
-  def genre=(genre)
-    @genre = genre
+  def genrem=(genre)
+    @genrem = genre
   end
  
-  def genre
-    @genre
+  def genrem
+    @genrem
   end
  
   def turn_page
